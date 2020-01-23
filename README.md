@@ -1,9 +1,5 @@
 # POSDB
 
-## ~ Getting it up ~
-
-Go ahead and download this project [here](/zcharli/posdb/archive/master.zip) 
-
 #### Dependencies:
 Internet connection 
 Node.js 0.10.x
